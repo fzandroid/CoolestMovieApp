@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CoolestMovieApp</string>
+    <string name="txt_movie_name">Movie Name : %1$s</string>
+    <string name="txt_movie_title"> %1$s (%2$s)</string>
+    <string name="txt_director_name">Directed By : %1$s</string>
+    <string name="txt_favourites">Favorites</string>
+    <string name="txt_plot">Brief Plot : %1$s</string>
+    <string name="txt_genre_rating">Genre : %1$s \n\nRated: %2$s</string>
+    <string name="txt_actors_awards">\n\nActors : %1$s  \n\nLanguage : %2$s</string>
+    <string name="txt_country_language">\n\nCountry : %1$s  \n\nAwards : %2$s</string>
+    <string name="txt_ratings">\n\nRatings:  %1$s :  %2$s </string>
+    <string name="transition_image">transition_image</string>
+    <string name="txt_movie_saved">The selected movie has been updated as per your request</string>
+    <string name="txt_movie_removed">The selected movie has been removed from your favourites</string>
+    <string name="txt_network_error">Unfortunately there were no search result at this time. Please try again searching for a different movie</string>
+    <string name="txt_no_favourite">You havent selected any favourite movies , please search for movies and select your favorites so that you can see them here</string>
+</resources>
